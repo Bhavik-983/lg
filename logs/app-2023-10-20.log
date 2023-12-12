@@ -1,0 +1,146 @@
+{"level":["info"],"timestamp":"20:10:2023|09:10:38","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"20:10:2023|09:10:94","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:05","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"20:10:2023|10:10:59","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:52","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:02","exception":false,"message":"::ffff:192.168.29.139 - - [20/Oct/2023:05:02:06 +0000] \"DELETE /language/delete/undefined HTTP/1.1\" 404 - \"http://127.0.0.1:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:57","exception":false,"message":"::ffff:192.168.29.139 - - [20/Oct/2023:05:02:21 +0000] \"DELETE /language/delete/undefined HTTP/1.1\" 404 - \"http://127.0.0.1:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:16","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:92","exception":false,"message":"::ffff:192.168.29.139 - - [20/Oct/2023:05:05:27 +0000] \"DELETE /language/delete/6530c8bc4f332d000ddb287b HTTP/1.1\" 404 - \"http://127.0.0.1:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:85","exception":false,"message":"::ffff:192.168.29.139 - - [20/Oct/2023:05:05:38 +0000] \"DELETE /language/delete/6530c8bc4f332d000ddb287b HTTP/1.1\" 404 - \"http://127.0.0.1:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:22","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:78","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:95","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:93","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:12","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|10:10:91","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:33","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:46","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:37","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:46","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:04","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:82","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:22","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:05","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:42","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:54","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:83","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:07","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:50","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:31","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:65","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:04","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"20:10:2023|11:10:09","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:00","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:68","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:90","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:57","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|11:10:53","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:27","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:14","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:38","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:45","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:95","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:34","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:75","exception":false,"message":"::ffff:192.168.29.139 - - [20/Oct/2023:06:44:54 +0000] \"DELETE /language/delete/653221db1b2ca7250050a41b HTTP/1.1\" 404 - \"http://127.0.0.1:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:68","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:01","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:15","exception":false,"message":"::1 - - [20/Oct/2023:06:48:45 +0000] \"GET /language/delete/6532163856db151a2fca1651 HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.33.0\"\n"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:56","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:17","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:65","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:65","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|12:10:42","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|12:10:14","exception":false,"message":"TOKEN_VERIFY"}
+{"level":["error"],"timestamp":"20:10:2023|13:10:93","exception":false,"message":"TOKEN_VERIFY"}
+{"level":["error"],"timestamp":"20:10:2023|13:10:49","exception":false,"message":"TOKEN_VERIFY"}
+{"level":["info"],"timestamp":"20:10:2023|13:10:27","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|13:10:20","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|13:10:04","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|13:10:38","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:02","exception":false,"message":"TOKEN_VERIFY"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:07","exception":false,"message":"::ffff:192.168.29.139 - - [20/Oct/2023:08:30:21 +0000] \"PUT /admin/generate-new-refresh-token HTTP/1.1\" 404 - \"http://127.0.0.1:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:54","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:00","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:93","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:08","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:77","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:21","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:77","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:13","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:44","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:95","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:49","exception":false,"message":"Cannot read properties of undefined (reading 'lg')"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:49","exception":false,"message":"CREATE_WEBSITE"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:61","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:64","exception":false,"message":"Cannot read properties of undefined (reading 'lg')"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:64","exception":false,"message":"CREATE_WEBSITE"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:89","exception":false,"message":"Cannot read properties of undefined (reading 'lg')"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:89","exception":false,"message":"CREATE_WEBSITE"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:81","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:58","exception":false,"message":"Cannot read properties of undefined (reading 'lg')"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:58","exception":false,"message":"CREATE_WEBSITE"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:86","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:49","exception":false,"message":"Cannot read properties of undefined (reading 'lg')"}
+{"level":["error"],"timestamp":"20:10:2023|14:10:49","exception":false,"message":"CREATE_WEBSITE"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:06","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:43","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:33","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:03","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:63","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:40","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:53","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:97","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:93","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:73","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:86","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:76","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:76","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:87","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:25","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:71","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:03","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:30","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:92","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|14:10:04","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|15:10:55","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|15:10:86","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|15:10:19","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|15:10:59","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|15:10:13","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|15:10:63","exception":false,"message":"Cannot read properties of null (reading 'name')"}
+{"level":["error"],"timestamp":"20:10:2023|15:10:63","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"20:10:2023|15:10:14","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|15:10:42","exception":false,"message":"Cannot read properties of null (reading 'name')"}
+{"level":["error"],"timestamp":"20:10:2023|15:10:42","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"20:10:2023|15:10:99","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|15:10:67","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|15:10:42","exception":false,"message":"Cannot read properties of null (reading 'name')"}
+{"level":["error"],"timestamp":"20:10:2023|15:10:42","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"20:10:2023|15:10:19","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|15:10:99","exception":false,"message":"Cannot read properties of null (reading 'name')"}
+{"level":["error"],"timestamp":"20:10:2023|15:10:99","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"20:10:2023|15:10:57","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|15:10:58","exception":false,"message":"Cannot read properties of null (reading 'name')"}
+{"level":["error"],"timestamp":"20:10:2023|15:10:58","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["error"],"timestamp":"20:10:2023|16:10:36","exception":false,"message":"TOKEN_VERIFY"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:39","exception":false,"message":"::ffff:192.168.29.139 - - [20/Oct/2023:10:30:27 +0000] \"PUT /admin/generate-new-refresh-token HTTP/1.1\" 404 - \"http://127.0.0.1:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:88","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:18","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:09","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|16:10:84","exception":false,"message":"TOKEN_VERIFY"}
+{"level":["error"],"timestamp":"20:10:2023|16:10:34","exception":false,"message":"Cannot read properties of null (reading 'name')"}
+{"level":["error"],"timestamp":"20:10:2023|16:10:35","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:45","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:80","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:46","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:12","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"20:10:2023|16:10:92","exception":false,"message":"Cannot read properties of null (reading 'name')"}
+{"level":["error"],"timestamp":"20:10:2023|16:10:92","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:20","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:91","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"20:10:2023|16:10:25","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"20:10:2023|17:10:52","exception":false,"message":"MongoDB Disconnected"}
+{"level":["warn"],"timestamp":"20:10:2023|17:10:68","exception":false,"message":"MongoDB Connection Closed Successfully!"}

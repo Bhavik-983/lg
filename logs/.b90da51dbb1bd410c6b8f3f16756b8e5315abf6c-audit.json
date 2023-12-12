@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/ankit/Documents/LT/demo(lt)/translate/logs/.b90da51dbb1bd410c6b8f3f16756b8e5315abf6c-audit.json",
+    "files": [
+        {
+            "date": 1701144063822,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-11-28.log",
+            "hash": "0cb2f2c5dfc2a827b1da8aa4dd622bbd94788a477d4b7b7764832701a986d63f"
+        },
+        {
+            "date": 1701230511648,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-11-29.log",
+            "hash": "00684e39493213ebd2b05aaa5325a695d685d4b416a8ff096bf5b1dd5e955cb8"
+        },
+        {
+            "date": 1701317717276,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-11-30.log",
+            "hash": "41b83119e8d0b2b6f222091207e4da5a907f75d85907340d424fe4573aae8f87"
+        },
+        {
+            "date": 1701402323892,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-12-01.log",
+            "hash": "fb61df28e749e6e66f8b120d273f803d3d734df4dbe20085b28959db5c723eac"
+        },
+        {
+            "date": 1701661578205,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-12-04.log",
+            "hash": "9cb193a555d056cb6556ba2e96f2104eb34fd1e15a16754249cfb40341299c6b"
+        },
+        {
+            "date": 1701748435037,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-12-05.log",
+            "hash": "7d75cfe592de3429095361f1d9677667ce76de53cfa017fd271c5cba2ae19d1c"
+        },
+        {
+            "date": 1701833923666,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-12-06.log",
+            "hash": "6fb1d0b8b3c309018d156c51d00f5b9fcaf3f1c8837d62d65aacddd792089113"
+        },
+        {
+            "date": 1701921778309,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-12-07.log",
+            "hash": "5d688ba1992ddd42f098af232501a2c8e6626d2fd3e84bb8588c167b9a9a9944"
+        },
+        {
+            "date": 1702007479860,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-12-08.log",
+            "hash": "d1944e5c886957e1c89db31e8e1e1fa4ea4caba99c68d103dbe562bfffe61cd8"
+        },
+        {
+            "date": 1702268184035,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-12-11.log",
+            "hash": "dca3b38a6f58393f589da5784aa647789637d640f0c1853b5ff8d53b7fc0b76d"
+        },
+        {
+            "date": 1702353108159,
+            "name": "/home/ankit/Documents/LT/demo(lt)/translate/logs/app-2023-12-12.log",
+            "hash": "9260f3808927bdb4739910ff314caef852d660ca54c57ff3062d878981094e6b"
+        }
+    ],
+    "hashType": "sha256"
+}

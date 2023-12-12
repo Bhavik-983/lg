@@ -1,0 +1,122 @@
+{"level":["info"],"timestamp":"11:12:2023|09:12:71","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"11:12:2023|09:12:74","exception":false,"message":"IS_USER"}
+{"level":["info"],"timestamp":"11:12:2023|09:12:49","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:04:17:23 +0000] \"GET /page/name/list/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|09:12:54","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:04:17:23 +0000] \"GET /key//undefined HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:24","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:52","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:59","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"11:12:2023|10:12:45","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"11:12:2023|10:12:46","exception":false,"message":"MongoDB Disconnected"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:90","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"11:12:2023|10:12:97","exception":true,"message":"uncaughtException: client is not defined"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:00","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:18","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:91","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:05:07:31 +0000] \"PUT /key/update/af8813be-b9aa-4a9a-a1ba-ee8c327cb277 HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:45","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:05:08:43 +0000] \"PUT /key/update/65769913af360920b4ff954f HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:13","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:05:09:37 +0000] \"PUT /key/update/cb531557-eef6-407d-92e4-1101f6a338df HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["warn"],"timestamp":"11:12:2023|10:12:59","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:41","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"11:12:2023|10:12:07","exception":false,"message":"IS_USER"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:31","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:05","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:57","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|10:12:22","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:05:22:10 +0000] \"PUT /key/update/5c54a707-2238-40e7-a817-a32d0f828478 HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|11:12:42","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:05:50:28 +0000] \"PUT /key/update/5a1786d7-98f5-4fcb-a960-a62e56827407 HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|11:12:97","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|11:12:74","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|11:12:33","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|11:12:73","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|11:12:21","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|11:12:75","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|11:12:13","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"11:12:2023|13:12:57","exception":false,"message":"IS_USER"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:71","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:07:45:28 +0000] \"GET /project/member-admin-data/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:53","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:07:45:32 +0000] \"GET /project/member-admin-data/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:49","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:07:45:39 +0000] \"GET /project/member-admin-data/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:21","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:07:46:36 +0000] \"GET /project/member-admin-data/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:52","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:08:05:41 +0000] \"PUT /project/update-project-data/undefined/6576a2241e75685d905e9611 HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:18","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:28","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:12","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:08:18:00 +0000] \"PUT /project/update-project-data/undefined/6576a2241e75685d905e9611 HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:52","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:09","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:08:24:30 +0000] \"PUT /project/update-project-data/undefined/6576a2241e75685d905e9611 HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:65","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|13:12:89","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:08:29:32 +0000] \"PUT /project/update-project-data/65702ae47d2c1e4d56c9d7c1/6576a2241e75685d905e9611 HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:11","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:08:31:54 +0000] \"PUT /project/update-project-data/65702ae47d2c1e4d56c9d7c1/6576a2241e75685d905e9611 HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:91","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:66","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:50","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:35","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:74","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:86","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:64","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:39","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:19","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:81","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:81","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:80","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:43","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:62","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:02","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:99","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:64","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:21","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:43","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:39","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|14:12:26","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:91","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:99","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:46","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:32","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:13","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:87","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:64","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:68","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:43","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:99","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:07","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:49","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:99","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:09:52:29 +0000] \"GET / HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:74","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:10:04:01 +0000] \"POST /project/user-name-email HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:69","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:26","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:50","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:07","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:70","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:88","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|15:12:28","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"11:12:2023|15:12:79","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:42","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:54","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:83","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:35","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:75","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:65","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:26","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"11:12:2023|16:12:05","exception":false,"message":"IS_USER"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:51","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:11:06:31 +0000] \"GET /project/member-admin-data/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:52","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:43","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:07","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:26","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:35","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:88","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:11:27:34 +0000] \"GET /project/member-admin-data/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:68","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:11:27:53 +0000] \"GET /project/member-admin-data/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:63","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:11:28:25 +0000] \"GET /project/member-admin-data/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:64","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:11:28:25 +0000] \"GET /project/member-admin-data/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:98","exception":false,"message":"::ffff:192.168.1.15 - - [11/Dec/2023:11:28:35 +0000] \"GET /project/member-admin-data/ HTTP/1.1\" 404 - \"http://localhost:8081/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n"}
+{"level":["info"],"timestamp":"11:12:2023|16:12:91","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|17:12:21","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|17:12:44","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|18:12:02","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|18:12:75","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"11:12:2023|18:12:01","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["info"],"timestamp":"11:12:2023|18:12:85","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"11:12:2023|18:12:21","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"11:12:2023|18:12:26","exception":true,"message":"uncaughtException: write EIO"}
+{"level":["warn"],"timestamp":"11:12:2023|18:12:34","exception":false,"message":"MongoDB Disconnected"}
+{"level":["warn"],"timestamp":"11:12:2023|18:12:48","exception":false,"message":"MongoDB Connection Closed Successfully!"}

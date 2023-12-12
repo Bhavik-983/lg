@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/ankit/Documents/LT/demo(lt)/lg/logs/.c3a7dff548e9561f869d1947799c61b079b7f25b-audit.json",
+    "files": [
+        {
+            "date": 1702380543459,
+            "name": "/home/ankit/Documents/LT/demo(lt)/lg/logs/app-2023-12-12.log",
+            "hash": "b87d5243ac9d9d69a74ef776c65eb450b33cea4288fc9cc37723b45aca3e8cb3"
+        }
+    ],
+    "hashType": "sha256"
+}

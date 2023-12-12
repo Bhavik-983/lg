@@ -1,0 +1,3 @@
+{"level":["info"],"timestamp":"22:10:2023|18:10:08","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:10:2023|19:10:08","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"22:10:2023|19:10:72","exception":false,"message":"MongoDB Disconnected"}

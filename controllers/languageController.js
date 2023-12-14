@@ -9,19 +9,19 @@ export const addLanguage = async (req, res) => {
   try {
     console.log("hyhyh");
     const data = req.body
-    // const projectData = await ProjectModel.findOne({ _id: req.params.projectId })
-    // if (!projectData) return sendBadRequest(res, message.projectDataNotFound)
+    const projectData = await ProjectModel.findOne({ _id: req.params.projectId })
+    if (!projectData) return sendBadRequest(res, message.projectDataNotFound)
 
-    // if (!(projectData.admins.includes(req.user._id))) return sendBadRequest(res, message.youAreNotAdmin)
+    if (!(projectData.admins.includes(req.user._id))) return sendBadRequest(res, message.youAreNotAdmin)
 
-    // if (await projectData.languages.length > 0) {
-    //   for (let i = 0; i < projectData.languages.length; i++) {
-    //     const languageData = await LanguageModels.findOne({ _id: projectData.languages[i] })
-    //   //  if (await !languageData) return sendBadRequest(res, message.languageDataNotFound)
-    //     if (await languageData.name === data.name.toLowerCase()) return sendBadRequest(res, message.languageDataAlreadyExist)
-    //  if (await languageData.code === data.code) return sendBadRequest(res, message.languageCodeMustBeUnique)
-    //   }
-    // }
+    if (await projectData.languages.length > 0) {
+      for (let i = 0; i < projectData.languages.length; i++) {
+        const languageData = await LanguageModels.findOne({ _id: projectData.languages[i] })
+      //  if (await !languageData) return sendBadRequest(res, message.languageDataNotFound)
+        if (await languageData.name === data.name.toLowerCase()) return sendBadRequest(res, message.languageDataAlreadyExist)
+     if (await languageData.code === data.code) return sendBadRequest(res, message.languageCodeMustBeUnique)
+      }
+    }
     console.log("hyhyh");
 
     const addLanguage = await new LanguageModels({

@@ -1,3 +1,9 @@
 {"level":["info"],"timestamp":"13:12:2023|13:12:61","exception":false,"message":"MongoDB connected"}
 {"level":["warn"],"timestamp":"13:12:2023|13:12:02","exception":false,"message":"MongoDB Disconnecting"}
 {"level":["warn"],"timestamp":"13:12:2023|13:12:03","exception":false,"message":"MongoDB Disconnected"}
+{"level":["info"],"timestamp":"13:12:2023|13:12:81","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"13:12:2023|14:12:08","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"13:12:2023|14:12:11","exception":false,"message":"MongoDB Disconnected"}
+{"level":["info"],"timestamp":"13:12:2023|17:12:49","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"13:12:2023|17:12:65","exception":false,"message":"MongoDB Disconnected"}
+{"level":["warn"],"timestamp":"13:12:2023|17:12:55","exception":false,"message":"MongoDB Reconnected"}

@@ -9,6 +9,7 @@ export default {
   userNameMustBeRequired: 'username must be required!',
   passwordMustBeRequired: 'password must be required!',
   emailMustBeRequired: 'email must be required!',
+  enterValidEmail:"enter valid email!",
   passwordFormatIsNotValid: "'Please enter a password at least 8 character and contain At least one uppercase.At least one lower case.At least one special character!",
   userAlreadyExist: 'user already exist!',
   accountCreatedSuccessfully: 'account created successfully!',

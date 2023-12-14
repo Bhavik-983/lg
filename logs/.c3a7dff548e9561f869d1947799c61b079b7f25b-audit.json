@@ -14,6 +14,11 @@
             "date": 1702454617728,
             "name": "/home/ankit/Documents/LT/demo(lt)/lg/logs/app-2023-12-13.log",
             "hash": "0d4d30f4a328811596704b4da82d6afafdd7be0d8d784e1fdd9df33edb4d5e8b"
+        },
+        {
+            "date": 1702549689246,
+            "name": "/home/ankit/Documents/LT/demo(lt)/lg/logs/app-2023-12-14.log",
+            "hash": "92cb3bc328be971ac1ed6533480c455a429b9085d02fcf1a7640e0c52b50eb26"
         }
     ],
     "hashType": "sha256"

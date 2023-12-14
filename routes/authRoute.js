@@ -10,7 +10,7 @@ const route = express.Router()
 
 // user_registration
 route.post('/create-account', [check('username').notEmpty().withMessage(message?.userNameMustBeRequired),
-  check('email').notEmpty().withMessage(message?.emailMustBeRequired),
+  check('email').notEmpty().withMessage(message?.emailMustBeRequired).isEmail().withMessage(message?.enterValidEmail),
   check('password').notEmpty().withMessage(message?.passwordMustBeRequired).isLength({ min: 8 })
     .withMessage(message?.passwordFormatIsNotValid)
 

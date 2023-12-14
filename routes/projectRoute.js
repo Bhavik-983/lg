@@ -10,7 +10,7 @@ const route = express.Router()
 
 route.post('/create-project', [check('name').notEmpty().withMessage(message?.nameRequired)], validationfield, isUser, createProject)
 
-route.post('/referd-user/:projectId', [check('role').notEmpty().withMessage(message?.roleIsRequired), check('email').notEmpty().withMessage(message?.emailMustBeRequired), param('projectId').notEmpty().withMessage(message?.projectIdIsRequired).custom((value) => {
+route.post('/referd-user/:projectId', [check('role').notEmpty().withMessage(message?.roleIsRequired), check('email').notEmpty().withMessage(message?.emailMustBeRequired).isEmail().withMessage(message?.enterValidEmail), param('projectId').notEmpty().withMessage(message?.projectIdIsRequired).custom((value) => {
   if (!mongoose.Types.ObjectId.isValid(value)) {
     throw new Error(message.enterValidProjectId)
   }

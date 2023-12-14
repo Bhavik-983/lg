@@ -15,3 +15,13 @@
 {"level":["info"],"timestamp":"14:12:2023|18:12:82","exception":false,"message":"MongoDB connected"}
 {"level":["warn"],"timestamp":"14:12:2023|18:12:42","exception":false,"message":"MongoDB Disconnecting"}
 {"level":["warn"],"timestamp":"14:12:2023|18:12:44","exception":false,"message":"MongoDB Disconnected"}
+{"level":["info"],"timestamp":"14:12:2023|18:12:23","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"14:12:2023|18:12:27","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"14:12:2023|18:12:02","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"14:12:2023|18:12:64","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"14:12:2023|18:12:49","exception":false,"message":"Cannot read properties of null (reading 'name')"}
+{"level":["error"],"timestamp":"14:12:2023|18:12:49","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"14:12:2023|18:12:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"14:12:2023|18:12:28","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"14:12:2023|18:12:13","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"14:12:2023|18:12:14","exception":false,"message":"MongoDB Disconnected"}

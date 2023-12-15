@@ -1,3 +1,4 @@
+import mongoose from 'mongoose'
 import { LanguageModels } from '../models/languageModels.js'
 import { ProjectModel } from '../models/projectModels.js'
 import logger from '../utilities/logger.js'
@@ -7,50 +8,54 @@ import { sendBadRequest, sendSuccess } from '../utilities/response/index.js'
 // use for add language
 export const addLanguage = async (req, res) => {
   try {
-    const data = req.body;
-    const projectData = await ProjectModel.findOne({ _id: req.params.projectId });
-    
-    if (!projectData) {
-      return sendBadRequest(res, message.projectDataNotFound);
-    }
+    const data = req.body
+    const projectData = await ProjectModel.findOne({ _id: req.params.projectId })
+    if (!projectData) return sendBadRequest(res, message.projectDataNotFound)
 
-    if (!projectData.admins.includes(req.user._id)) {
-      return sendBadRequest(res, message.youAreNotAdmin);
-    }
+    if (!(projectData.admins.includes(req.user._id))) return sendBadRequest(res, message.youAreNotAdmin)
 
-    for (let i = 0; i < projectData.languages.length; i++) {
-      const languageData = await LanguageModels.findOne({ _id: projectData.languages[i] });
+    const session = await mongoose.startSession();
+    session.startTransaction();
 
-      if (!languageData) {
-        return sendBadRequest(res, message.languageDataNotFound);
+    if (await projectData.languages.length > 0) {
+      for (let i = 0; i < projectData.languages.length; i++) {
+        const languageData = await LanguageModels.findOne({ _id: projectData.languages[i] })
+       if (!languageData){
+        await session.abortTransaction();
+        session.endSession();
+         return sendBadRequest(res, message.languageDataNotFound)
+       }
+       
+        if (await languageData.name === data.name.toLowerCase())
+        {
+          await session.abortTransaction();
+          session.endSession();
+          return sendBadRequest(res, message.languageDataAlreadyExist)
+        }
+     if (await languageData.code === data.code) return sendBadRequest(res, message.languageCodeMustBeUnique)
       }
-
-      if (languageData.name.toLowerCase() === data.name.toLowerCase()) {
-        return sendBadRequest(res, message.languageDataAlreadyExist);
-      }
-
-      if (languageData.code === data.code) {
-        return sendBadRequest(res, message.languageCodeMustBeUnique);
-      }
     }
+    console.log("hyhyh");
 
-    const addLanguage = new LanguageModels({
+    const addLanguage = await new LanguageModels({
       name: data.name.toLowerCase(),
-      code: data.code,
-    });
+      code: data.code
+    })
+    await projectData.languages.push(addLanguage._id)
+    await addLanguage.save()
+    await projectData.save()
+    await session.commitTransaction();
+    session.endSession();
 
-    await addLanguage.save();
-    projectData.languages.push(addLanguage._id);
-    await projectData.save();
-
-    return sendSuccess(res, addLanguage, message.languageAddedSuccessfully);
+    return sendSuccess(res, addLanguage, message.languageAddedSuccessfully)
   } catch (e) {
-    logger.error(e);
-    logger.error('ADD_LANGUAGE');
-    return sendBadRequest(res, message.somethingGoneWrong);
+    await session.abortTransaction();
+    session.endSession();
+    logger.error(e)
+    logger.error('ADD_LANGUAGE')
+    return sendBadRequest(res, message.somethingGoneWrong)
   }
-};
-
+}
 
 // use for get language name data
 export const getLanguageNameList = async (req, res) => {

@@ -7,13 +7,11 @@ import { sendBadRequest, sendSuccess } from '../utilities/response/index.js'
 // use for add language
 export const addLanguage = async (req, res) => {
   try {
-    console.log("hyhyh");
     const data = req.body
     const projectData = await ProjectModel.findOne({ _id: req.params.projectId })
     if (!projectData) return sendBadRequest(res, message.projectDataNotFound)
 
     if (!(projectData.admins.includes(req.user._id))) return sendBadRequest(res, message.youAreNotAdmin)
-
     if (await projectData.languages.length > 0) {
       for (let i = 0; i < projectData.languages.length; i++) {
         const languageData = await LanguageModels.findOne({ _id: projectData.languages[i] })
@@ -22,7 +20,6 @@ export const addLanguage = async (req, res) => {
      if (await languageData.code === data.code) return sendBadRequest(res, message.languageCodeMustBeUnique)
       }
     }
-    console.log("hyhyh");
 
     const addLanguage = await new LanguageModels({
       name: data.name.toLowerCase(),

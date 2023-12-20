@@ -1,0 +1,247 @@
+{"level":["info"],"timestamp":"16:12:2023|15:12:25","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|16:12:50","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:53","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|16:12:89","exception":false,"message":"Cannot read properties of undefined (reading 'body')"}
+{"level":["error"],"timestamp":"16:12:2023|16:12:89","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["error"],"timestamp":"16:12:2023|16:12:03","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:08","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|16:12:41","exception":false,"message":"Cannot read properties of undefined (reading 'body')"}
+{"level":["error"],"timestamp":"16:12:2023|16:12:41","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:57","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:53","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:73","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:65","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:42","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:83","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:14","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:12","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:13","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:31","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:87","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:37","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:97","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:22","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:61","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:92","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:91","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:93","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:09","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:29","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:33","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:95","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:38","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:29","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:96","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:55","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|16:12:11","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:42","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:83","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:32","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:15","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:53","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:68","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:71","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:86","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:63","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:37","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:10","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:19","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:73","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:25","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:06","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:31","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:22","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:40","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:70","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:76","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:01","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:84","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:85","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:86","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:86","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:87","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:87","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:87","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:87","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:88","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:88","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:88","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:88","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:89","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:89","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:89","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:89","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:89","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:89","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:89","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:89","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:90","exception":true,"message":"uncaughtException: i is not defined"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:08","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:07","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:08","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:08","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:09","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:10","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:10","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:10","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:12","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:12","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:12","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:12","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:14","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:14","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:14","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:14","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:14","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:14","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:15","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:16","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:16","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:16","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:16","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:21","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:32","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:06","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:06","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:07","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:62","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:63","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:63","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:63","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:77","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:78","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:78","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:78","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:79","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:05","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:05","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:07","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:07","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:07","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:10","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:19","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:19","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:20","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:20","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:20","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:20","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:21","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:17","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:36","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:38","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:38","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:39","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:55","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:56","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:56","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:56","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:10","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:22","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:22","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:96","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:61","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:75","exception":true,"message":"uncaughtException: Cannot call abortTransaction twice"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:77","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:62","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:03","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:24","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:81","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:58","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:84","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:54","exception":false,"message":"languageId is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|17:12:54","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:24","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:34","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:96","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:63","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|17:12:15","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:37","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:66","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:90","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:58","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:70","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:26","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:05","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:80","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:37","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:53","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:53","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:73","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:12","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"16:12:2023|18:12:71","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:49","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|18:12:90","exception":false,"message":"IS_USER"}
+{"level":["error"],"timestamp":"16:12:2023|18:12:92","exception":false,"message":"IS_USER"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:63","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:90","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:98","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|18:12:20","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:17","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|18:12:17","exception":true,"message":"uncaughtException: session is not defined"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:40","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|18:12:70","exception":false,"message":"Cannot access 'addLanguageData' before initialization"}
+{"level":["error"],"timestamp":"16:12:2023|18:12:70","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:01","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:27","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|18:12:59","exception":false,"message":"d is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|18:12:59","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:47","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:13","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|18:12:55","exception":false,"message":"addLanguageData is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|18:12:55","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:93","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:38","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:71","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:74","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:85","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:53","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:07","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:40","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:58","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:16","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:71","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:85","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:58","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|18:12:03","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:26","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:63","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:40","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:24","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:07","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:45","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:36","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:43","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:36","exception":false,"message":"fetchData is not defined"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:36","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:67","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:84","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:84","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:84","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:54","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:58","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:84","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:54","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:58","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:84","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:54","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:59","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:85","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:54","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:58","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:85","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:55","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:58","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:85","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:54","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:58","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"16:12:2023|19:12:86","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:37","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:17","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:39","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"16:12:2023|19:12:71","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"16:12:2023|19:12:40","exception":false,"message":"MongoDB Disconnecting"}

@@ -1,0 +1,36 @@
+{"level":["info"],"timestamp":"17:12:2023|16:12:23","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"17:12:2023|16:12:50","exception":false,"message":"IS_USER"}
+{"level":["info"],"timestamp":"17:12:2023|16:12:84","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|16:12:92","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|16:12:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|16:12:94","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|16:12:23","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|16:12:69","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|16:12:22","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|16:12:37","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|16:12:44","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|16:12:03","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:30","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:90","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:46","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:26","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:97","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"17:12:2023|17:12:19","exception":false,"message":"languageCache is not defined"}
+{"level":["error"],"timestamp":"17:12:2023|17:12:19","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["error"],"timestamp":"17:12:2023|17:12:38","exception":false,"message":"languageCache is not defined"}
+{"level":["error"],"timestamp":"17:12:2023|17:12:38","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["error"],"timestamp":"17:12:2023|17:12:39","exception":false,"message":"languageCache is not defined"}
+{"level":["error"],"timestamp":"17:12:2023|17:12:39","exception":false,"message":"ADD_LANGUAGE"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:49","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:45","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:80","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:45","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:78","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:42","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:07","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:13","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:41","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|17:12:02","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"17:12:2023|18:12:29","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"17:12:2023|18:12:96","exception":false,"message":"MongoDB Disconnecting"}

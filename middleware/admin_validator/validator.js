@@ -36,7 +36,6 @@ export const isAdmin = async (req, res, next) => {
     // next for using this method only
     next()
   } catch (e) {
-    console.log(e)
     logger.error('IS_USER')
     if (String(e).includes('jwt expired')) {
       return sendBadRequestWith406Code(res, message.tokenExpiredError)

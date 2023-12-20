@@ -1,7 +1,7 @@
 export default {
 
   // admin auth
-  youAreNotAdmin: 'you are not admin!',
+  youAreNotAdmin: 'you are not admin in this project!',
 
   // user_auth
   enterValidUserId: 'enter valid user id!',

@@ -4,12 +4,9 @@ import message from '../utilities/messages/message.js'
 import { sendBadRequest, sendSuccess } from '../utilities/response/index.js'
 import { KeyModel } from '../models/keyModels.js'
 import mongoose from 'mongoose'
-import { MongoClient } from 'mongodb'
 import { UserModel } from '../models/userModels.js'
 
-// Connection URI
-const uri = 'mongodb://localhost:27017'
-const dbName = 'transaction'
+
 export const getWebSiteDataByAggregation = async (req, res) => {
   try {
     const projectData = await ProjectModel.findOne({ _id: req.params.projectId }).populate('pages', 'keys')
@@ -145,31 +142,4 @@ export const getWebSiteDataByAggregations = async (req, res) => {
 
 // missingNumber(array, n)
 
-// Create a new MongoClient
-// const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true })
 
-// // // Insert data using async/await
-// const insertData = async () => {
-//   const client = new MongoClient(uri)
-//   // const session = client.startSession()
-
-//   try {
-//     await client.connect()
-//     // await session.startTransaction()
-
-//     const addPayment = UserModel.create({ username: 'bhavik' })
-//     const addPayment2 = UserModel.create({ username:  })
-
-//     // await session.commitTransaction()
-//     console.log('Users created successfully')
-//   } catch (error) {
-//     // await session.abortTransaction()
-//     console.error('Error inserting data:', error)
-//   } finally {
-//     // await session.endSession()
-//     await client.close()
-//   }
-// }
-
-// // // Call the insertData function
-// insertData()

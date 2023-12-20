@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/ankit/Documents/LT/demoLT/lg/logs/.66c65275e279b0cfc4d3a146b7b006ed0ac70863-audit.json",
+    "files": [
+        {
+            "date": 1702722539782,
+            "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-16.log",
+            "hash": "da69cab564e8674f3fcab397b2feb2360772dd41ae5e31a7fbc25af0bc0722ff"
+        },
+        {
+            "date": 1702810637359,
+            "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-17.log",
+            "hash": "d2a45dbec5b98f48df35787b255275bc9ca3a98275783ad4779d317c95e987cf"
+        },
+        {
+            "date": 1702870773650,
+            "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-18.log",
+            "hash": "2b2d6e3ddc03112d573a272439e6b6253f48700e3d9b3b15d367c4c6fadf842d"
+        },
+        {
+            "date": 1702874381468,
+            "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-18.log.1",
+            "hash": "b60a2268f5575cc1afd59daa00d44a8290acc8a7aff8545bf429933bdd609506"
+        },
+        {
+            "date": 1703046019708,
+            "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-20.log",
+            "hash": "aaa7a185bfca5cb976a0913e9799d896ad6fe5962532f8ab2f315250e2493969"
+        }
+    ],
+    "hashType": "sha256"
+}

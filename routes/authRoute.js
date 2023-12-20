@@ -18,7 +18,7 @@ route.post('/create-account', [check('username').notEmpty().withMessage(message?
 
 // user_registration
 route.post('/user-login', [
-  check('email').notEmpty().withMessage(message?.emailMustBeRequired),
+  check('email').notEmpty().withMessage(message?.emailMustBeRequired).isEmail().withMessage(message?.enterValidEmail),
   check('password').notEmpty().withMessage(message?.passwordMustBeRequired)
 
 ], validationfield, login)

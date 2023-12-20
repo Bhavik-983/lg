@@ -1,140 +1,187 @@
-import mongoose from 'mongoose'
-import { LanguageModels } from '../models/languageModels.js'
-import { ProjectModel } from '../models/projectModels.js'
-import logger from '../utilities/logger.js'
-import message from '../utilities/messages/message.js'
-import { sendBadRequest, sendSuccess } from '../utilities/response/index.js'
+import { LanguageModels } from "../models/languageModels.js";
+import { ProjectModel } from "../models/projectModels.js";
+import logger from "../utilities/logger.js";
+import message from "../utilities/messages/message.js";
+import { sendBadRequest, sendSuccess } from "../utilities/response/index.js";
 
-// use for add language
+let projectCatch = new Map();
+
 export const addLanguage = async (req, res) => {
   try {
-    const data = req.body
-    const projectData = await ProjectModel.findOne({ _id: req.params.projectId })
-    if (!projectData) return sendBadRequest(res, message.projectDataNotFound)
+    const data = req.body;
 
-    if (!(projectData.admins.includes(req.user._id))) return sendBadRequest(res, message.youAreNotAdmin)
+    const projectData = await ProjectModel.findOne({
+      _id: req.params.projectId,
+    });
 
-    const session = await mongoose.startSession();
-    session.startTransaction();
+    if (!projectData) {
+      return sendBadRequest(res, message.projectDataNotFound);
+    }
 
-    if (await projectData.languages.length > 0) {
+    if (!projectData.admins.includes(req.user._id)) {
+      return sendBadRequest(res, message.youAreNotAdmin);
+    }
+
+    if (projectData.languages.length > 0) {
       for (let i = 0; i < projectData.languages.length; i++) {
-        const languageData = await LanguageModels.findOne({ _id: projectData.languages[i] })
-       if (!languageData){
-        await session.abortTransaction();
-        session.endSession();
-         return sendBadRequest(res, message.languageDataNotFound)
-       }
-       
-        if (await languageData.name === data.name.toLowerCase())
-        {
-          await session.abortTransaction();
-          session.endSession();
-          return sendBadRequest(res, message.languageDataAlreadyExist)
+        const languageData = await LanguageModels.findOne({
+          _id: projectData.languages[i],
+        });
+
+        if (!languageData) {
+          return sendBadRequest(res, message.languageDataNotFound);
         }
-     if (await languageData.code === data.code) return sendBadRequest(res, message.languageCodeMustBeUnique)
+
+        if (languageData.name === data.name.toLowerCase()) {
+          return sendBadRequest(res, message.languageDataAlreadyExist);
+        }
+
+        if (languageData.code === data.code) {
+          return sendBadRequest(res, message.languageCodeMustBeUnique);
+        }
       }
     }
-    console.log("hyhyh");
 
     const addLanguage = await new LanguageModels({
       name: data.name.toLowerCase(),
-      code: data.code
-    })
-    await projectData.languages.push(addLanguage._id)
-    await addLanguage.save()
-    await projectData.save()
-    await session.commitTransaction();
-    session.endSession();
+      code: data.code,
+    });
 
-    return sendSuccess(res, addLanguage, message.languageAddedSuccessfully)
+    // const languageId = addLanguage._id;
+
+    // const isApiRunning = projectCatch.get(languageId);
+    // if (isApiRunning && Array.isArray(isApiRunning) && isApiRunning.includes(languageId)) {
+    //   await new Promise((resolve) => {
+    //     const interval = setInterval(() => {
+    //       const isRunning = projectCatch.get(languageId);
+    //       if (!isRunning || !Array.isArray(isRunning) || !isRunning.includes(languageId)) {
+    //         clearInterval(interval);
+    //         resolve();
+    //       }
+    //     }, 1000);
+    //   });
+    // }
+
+    // projectCatch.set(languageId, addLanguage);
+    // console.log(projectCatch);
+
+    await projectData.languages.push(addLanguage._id);
+    await addLanguage.save();
+    await projectData.save();
+
+    return sendSuccess(res, addLanguage, message.languageAddedSuccessfully);
   } catch (e) {
-    await session.abortTransaction();
-    session.endSession();
-    logger.error(e)
-    logger.error('ADD_LANGUAGE')
-    return sendBadRequest(res, message.somethingGoneWrong)
+    logger.error(e);
+    logger.error("ADD_LANGUAGE");
+    return sendBadRequest(res, message.somethingGoneWrong);
   }
-}
+};
+
 
 // use for get language name data
 export const getLanguageNameList = async (req, res) => {
   try {
-    const projectData = await ProjectModel.findOne({ $or: [{ members: { $in: req.user._id } }, { admins: { $in: req.user._id } }], _id: req.params.projectId })
-    if (!projectData) return sendBadRequest(res, message.enterValidProjectId)
+    const projectData = await ProjectModel.findOne({
+      $or: [
+        { members: { $in: req.user._id } },
+        { admins: { $in: req.user._id } },
+      ],
+      _id: req.params.projectId,
+    });
+    if (!projectData) return sendBadRequest(res, message.enterValidProjectId);
 
-    const options = {}
-    options._id = req.params.projectId
+    const options = {};
+    options._id = req.params.projectId;
     if (req.query.status) {
-      options.status = req.query.status
+      options.status = req.query.status;
     } else {
-      options.status = true
+      options.status = true;
     }
 
-    const languageData = await ProjectModel.findOne(options).populate('languages', 'name code _id').select({ languages: 1 })
+    const languageData = await ProjectModel.findOne(options)
+      .populate("languages", "name code _id")
+      .select({ languages: 1 });
 
-    return sendSuccess(res, languageData, message.languageDataGetSuccessfully)
+    return sendSuccess(res, languageData, message.languageDataGetSuccessfully);
   } catch (e) {
-    logger.error(e)
-    logger.error('GET_LANGUAGE_NAME_LIST')
-    return sendBadRequest(res, message.somethingGoneWrong)
+    logger.error(e);
+    logger.error("GET_LANGUAGE_NAME_LIST");
+    return sendBadRequest(res, message.somethingGoneWrong);
   }
-}
+};
 
 // use for update language data
 export const updateLanguageData = async (req, res) => {
   try {
-    const data = req.body
+    const data = req.body;
 
-    const projectData = await ProjectModel.findOne({ _id: req.params.projectId })
+    const projectData = await ProjectModel.findOne({
+      _id: req.params.projectId,
+    });
 
-    const languageData = await LanguageModels.findOne({ _id: req.params.languageId })
-    if (!languageData) return sendBadRequest(res, message.languageDataNotFound)
+    const languageData = await LanguageModels.findOne({
+      _id: req.params.languageId,
+    });
+    if (!languageData) return sendBadRequest(res, message.languageDataNotFound);
 
-    if (!(projectData.languages.includes(languageData._id))) return sendBadRequest(res, message.enterValidLanguageId)
+    if (!projectData.languages.includes(languageData._id))
+      return sendBadRequest(res, message.enterValidLanguageId);
 
     if (data.name) {
       for (const i of projectData.languages) {
-        const languageData = await LanguageModels.findOne({ name: data.name.toLowerCase(), _id: i })
-        if (languageData) return sendBadRequest(res, message.languageDataAlreadyExist)
+        const languageData = await LanguageModels.findOne({
+          name: data.name.toLowerCase(),
+          _id: i,
+        });
+        if (languageData)
+          return sendBadRequest(res, message.languageDataAlreadyExist);
       }
-      languageData.name = data.name.toLowerCase()
+      languageData.name = data.name.toLowerCase();
     }
     if (data.code) {
       for (const i of projectData.languages) {
-        const languageData = await LanguageModels.findOne({ code: data.code, _id: i })
-        if (languageData) return sendBadRequest(res, message.languageCodeMustBeUnique)
+        const languageData = await LanguageModels.findOne({
+          code: data.code,
+          _id: i,
+        });
+        if (languageData)
+          return sendBadRequest(res, message.languageCodeMustBeUnique);
       }
-      languageData.code = data.code
+      languageData.code = data.code;
     }
 
-    await languageData.save()
-    return sendSuccess(res, message.languageDataUpdatedSuccessfully)
+    await languageData.save();
+    return sendSuccess(res, message.languageDataUpdatedSuccessfully);
   } catch (e) {
-    logger.error(e)
-    logger.error('UPDATE_LANGUAGE_DATA')
-    return sendBadRequest(res, message.somethingGoneWrong)
+    logger.error(e);
+    logger.error("UPDATE_LANGUAGE_DATA");
+    return sendBadRequest(res, message.somethingGoneWrong);
   }
-}
+};
 
 // use for delete language data
 export const deleteLanguageData = async (req, res) => {
   try {
-    const languageData = await LanguageModels.findOne({ _id: req.params.languageId })
+    const languageData = await LanguageModels.findOne({
+      _id: req.params.languageId,
+    });
     if (!languageData) {
-      return sendBadRequest(res, message.languageDataNotFound)
+      return sendBadRequest(res, message.languageDataNotFound);
     }
-    const projectData = await ProjectModel.findOne({ _id: req.params.projectId })
-    if (!projectData) return sendBadRequest(res, message.projectDataNotFound)
+    const projectData = await ProjectModel.findOne({
+      _id: req.params.projectId,
+    });
+    if (!projectData) return sendBadRequest(res, message.projectDataNotFound);
 
     // if (!(projectData.admins.includes(req.user._id))) return sendBadRequest(res, message.youAreNotAdmin)
-    if (!(projectData.languages.includes(languageData._id))) return sendBadRequest(res, message.enterValidProjectId)
-    await projectData.languages.pull(languageData._id)
-    await languageData.delete()
-    await projectData.save()
-    return sendSuccess(res, message.languageDataDeletedSuccessfully)
+    if (!projectData.languages.includes(languageData._id))
+      return sendBadRequest(res, message.enterValidProjectId);
+    await projectData.languages.pull(languageData._id);
+    await languageData.delete();
+    await projectData.save();
+    return sendSuccess(res, message.languageDataDeletedSuccessfully);
   } catch (e) {
-    logger.error(e)
-    logger.error('DELETE_LANGUAGE_DATA')
+    logger.error(e);
+    logger.error("DELETE_LANGUAGE_DATA");
   }
-}
+};

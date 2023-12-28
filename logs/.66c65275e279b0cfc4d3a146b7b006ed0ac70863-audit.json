@@ -29,6 +29,31 @@
             "date": 1703046019708,
             "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-20.log",
             "hash": "aaa7a185bfca5cb976a0913e9799d896ad6fe5962532f8ab2f315250e2493969"
+        },
+        {
+            "date": 1703218189585,
+            "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-22.log",
+            "hash": "83817822b89ddf52c48398024822e09cc5693ef2e75bd6ea4375e0e533181564"
+        },
+        {
+            "date": 1703479959679,
+            "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-25.log",
+            "hash": "a25c7f74ed54bea6d6979091baed73177bff7bf64d3b5eb5165c5e72634f9435"
+        },
+        {
+            "date": 1703562480194,
+            "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-26.log",
+            "hash": "f1ff9e05fd332bf89dd92c918ed56b95ec845e45aa745f716fa8be0995a94e98"
+        },
+        {
+            "date": 1703655072621,
+            "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-27.log",
+            "hash": "ddc97d5d2409f99c78ffee01b29ee1098961ab453412edd517996c08af9374d9"
+        },
+        {
+            "date": 1703735950795,
+            "name": "/home/ankit/Documents/LT/demoLT/lg/logs/app-2023-12-28.log",
+            "hash": "ba50b9a133961e4e319e59f3b1576a5d67da0fc1cf34a5e9bbd2c7ed1b79a845"
         }
     ],
     "hashType": "sha256"

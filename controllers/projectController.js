@@ -4,6 +4,7 @@ import constant from '../utilities/constant.js'
 import logger from '../utilities/logger.js'
 import message from '../utilities/messages/message.js'
 import { sendBadRequest, sendSuccess } from '../utilities/response/index.js'
+import { MongoClient } from 'mongodb'
 
 // use for create project
 export const createProject = async (req, res) => {
@@ -233,3 +234,23 @@ export const getUserRole = async (req, res) => {
     return sendBadRequest(res, message.somethingGoneWrong)
   }
 }
+
+
+async function demo() {
+  try {
+    const client = new MongoClient(process.env.MONGO_URI);
+    await client.connect();
+    // Prereq: Create collections.
+    await client
+      .db('mydb1')
+      .collection('foo')
+      .insertOne({ abc: 0 }, { writeConcern: { w: 'majority' } });
+    await client
+      .db('mydb2')
+      .collection('bar')
+      .insertOne({ xyz: 0 }, { writeConcern: { w: 'majority' } });
+  } catch (e) {
+    console.log(e)
+  }
+}
+demo()

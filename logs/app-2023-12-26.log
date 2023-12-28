@@ -1,0 +1,87 @@
+{"level":["info"],"timestamp":"26:12:2023|09:12:09","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|09:12:15","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|09:12:71","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|09:12:97","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|09:12:22","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|09:12:64","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"26:12:2023|09:12:02","exception":true,"message":"uncaughtException: The \"path\" argument must be of type string or an instance of URL. Received [Object: null prototype]"}
+{"level":["info"],"timestamp":"26:12:2023|09:12:37","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|09:12:64","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|09:12:45","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:15","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:72","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:17","exception":false,"message":"::1 - - [26/Dec/2023:04:40:34 +0000] \"GET /notfound HTTP/1.1\" 500 99 \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:09","exception":false,"message":"::1 - - [26/Dec/2023:04:41:03 +0000] \"GET /notfoun HTTP/1.1\" 500 99 \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:78","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:59","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:98","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:23","exception":false,"message":"::1 - - [26/Dec/2023:04:50:56 +0000] \"GET / HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:94","exception":false,"message":"::1 - - [26/Dec/2023:04:51:02 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:68","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:95","exception":false,"message":"::1 - - [26/Dec/2023:04:51:45 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:35","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:29","exception":false,"message":"::1 - - [26/Dec/2023:04:52:27 +0000] \"GET /grt HTTP/1.1\" 404 46 \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:90","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:41","exception":false,"message":"::1 - - [26/Dec/2023:04:53:22 +0000] \"GET /grt HTTP/1.1\" 404 46 \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:63","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:79","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:45","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:72","exception":false,"message":"::1 - - [26/Dec/2023:04:54:21 +0000] \"GET /grt HTTP/1.1\" 404 46 \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:61","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:69","exception":false,"message":"::1 - - [26/Dec/2023:04:55:04 +0000] \"GET /grt HTTP/1.1\" 404 46 \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:68","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:93","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:80","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:26","exception":false,"message":"::1 - - [26/Dec/2023:04:58:23 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:40","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:94","exception":false,"message":"::1 - - [26/Dec/2023:05:00:40 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:10","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:73","exception":false,"message":"::1 - - [26/Dec/2023:05:01:55 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:34","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:98","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:15","exception":false,"message":"::1 - - [26/Dec/2023:05:03:19 +0000] \"GET /grt HTTP/1.1\" 404 46 \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:97","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:63","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:66","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:27","exception":false,"message":"::1 - - [26/Dec/2023:05:04:06 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:11","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:38","exception":false,"message":"::1 - - [26/Dec/2023:05:04:45 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:34","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:15","exception":false,"message":"::1 - - [26/Dec/2023:05:05:06 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:05","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:84","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:62","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:54","exception":false,"message":"::1 - - [26/Dec/2023:05:11:23 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:95","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:81","exception":false,"message":"::1 - - [26/Dec/2023:05:11:44 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:83","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:06","exception":false,"message":"::1 - - [26/Dec/2023:05:12:21 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:78","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:92","exception":false,"message":"::1 - - [26/Dec/2023:05:12:54 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:95","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:35","exception":false,"message":"::1 - - [26/Dec/2023:05:13:08 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:63","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:96","exception":false,"message":"::1 - - [26/Dec/2023:05:13:20 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:94","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:06","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:67","exception":false,"message":"::1 - - [26/Dec/2023:05:22:50 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:80","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:92","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:30","exception":false,"message":"::1 - - [26/Dec/2023:05:24:12 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:52","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:91","exception":false,"message":"::1 - - [26/Dec/2023:05:24:18 +0000] \"GET /grt HTTP/1.1\" 404 142 \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:63","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:84","exception":false,"message":"::1 - - [26/Dec/2023:05:25:14 +0000] \"GET /grt HTTP/1.1\" 404 142 \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:08","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:35","exception":false,"message":"::1 - - [26/Dec/2023:05:25:35 +0000] \"GET /grt HTTP/1.1\" 404 142 \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:00","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:43","exception":false,"message":"::1 - - [26/Dec/2023:05:25:42 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:62","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:32","exception":false,"message":"::1 - - [26/Dec/2023:05:26:21 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"26:12:2023|10:12:58","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"26:12:2023|12:12:83","exception":false,"message":"MongoDB Disconnected"}
+{"level":["warn"],"timestamp":"26:12:2023|12:12:05","exception":false,"message":"MongoDB Reconnected"}
+{"level":["info"],"timestamp":"26:12:2023|14:12:84","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"26:12:2023|14:12:68","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"26:12:2023|14:12:70","exception":false,"message":"MongoDB Disconnected"}

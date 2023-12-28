@@ -7,13 +7,15 @@ import { shutDown } from '../utilities/serverUtils/shutDown.js'
 import { PageModels } from '../models/pageModels.js'
 import { KeyModel } from '../models/keyModels.js'
 import { LanguageModels } from '../models/languageModels.js'
+import { ProjectModel } from '../models/projectModels.js'
+import { UserModel } from '../models/userModels.js'
 
 mongoose.connect(config.DATABASE.MONGO.URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })
-
 // mongoose.set('debug', true)
+
 
 const db = mongoose.connection
 
@@ -24,6 +26,8 @@ db.on('connecting', () => {
 db.once('open', () => {
   console.log('MONGO-DB DATABASE CONNECTED')
   logger.info({ message: 'MongoDB connected' })
+syncAllModel()
+
 })
 
 db.on('disconnecting', () => {
@@ -56,8 +60,10 @@ const syncAllModel = async () => { // Sync Model
     await Promise.all([
       PageModels.syncIndexes(),
       KeyModel.syncIndexes(),
-      LanguageModels.syncIndexes()
-
+      LanguageModels.syncIndexes(),
+      ProjectModel.syncIndexes(),
+      UserModel.syncIndexes()
+ 
     ])
   } catch (error) {
     logger.debug(error)

@@ -1,0 +1,242 @@
+{"level":["info"],"timestamp":"22:12:2023|09:12:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:36","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:85","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:98","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:72","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|10:12:68","exception":true,"message":"uncaughtException: Cannot access 'syncAllModel' before initialization"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:89","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:14","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"22:12:2023|10:12:34","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"22:12:2023|10:12:36","exception":false,"message":"MongoDB Disconnected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:03","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:06","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:29","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|10:12:47","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|10:12:47","exception":false,"message":"CREATE_ACCOUNT"}
+{"level":["error"],"timestamp":"22:12:2023|10:12:48","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:57","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:36","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:53","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:68","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:73","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|10:12:87","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|10:12:88","exception":false,"message":"CREATE_ACCOUNT"}
+{"level":["error"],"timestamp":"22:12:2023|10:12:89","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:56","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|10:12:29","exception":true,"message":"uncaughtException: `syncIndexes` is an invalid option."}
+{"level":["info"],"timestamp":"22:12:2023|10:12:55","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:54","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|10:12:82","exception":true,"message":"uncaughtException: Cannot access 'UserModel' before initialization"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:99","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|10:12:05","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:45","exception":true,"message":"uncaughtException: `syncIndexes` is an invalid option."}
+{"level":["info"],"timestamp":"22:12:2023|11:12:34","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:99","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:01","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:13","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:51","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:96","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:96","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:97","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:40","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:51","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:51","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:52","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:96","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:52","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:52","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:53","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:95","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:95","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:96","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:41","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:99","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:99","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:01","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:42","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:26","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:26","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:27","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:76","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:42","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:42","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:43","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:91","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:09","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:09","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:10","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:61","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:65","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:65","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:67","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:15","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:24","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:24","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:26","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:82","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:55","exception":false,"message":"IS_USER"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:90","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:90","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:91","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:45","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:46","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:47","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:48","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:91","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:72","exception":false,"message":"Cannot read properties of undefined (reading 'status')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:72","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:74","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:28","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:75","exception":false,"message":"Cannot read properties of undefined (reading 'body')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:75","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:76","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:16","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:97","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:87","exception":false,"message":"Cannot read properties of undefined (reading 'body')"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:88","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|11:12:89","exception":true,"message":"uncaughtException: Cannot read properties of undefined (reading 'status')"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:29","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:31","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:14","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:48","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:89","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:88","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:69","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:97","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:59","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|11:12:31","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:95","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:89","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:02","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:68","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:30","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:06","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:21","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:75","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:76","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:100","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:02","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:99","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:50","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|12:12:48","exception":false,"message":"Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"22:12:2023|12:12:48","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|12:12:49","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:88","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|12:12:46","exception":false,"message":"Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"22:12:2023|12:12:46","exception":false,"message":"CREATE_PROJECT"}
+{"level":["error"],"timestamp":"22:12:2023|12:12:47","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:86","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:65","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|12:12:71","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|13:12:66","exception":false,"message":"IS_USER"}
+{"level":["error"],"timestamp":"22:12:2023|13:12:45","exception":false,"message":"Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"22:12:2023|13:12:45","exception":false,"message":"GET_PROJECT_DATA"}
+{"level":["error"],"timestamp":"22:12:2023|13:12:46","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["info"],"timestamp":"22:12:2023|13:12:07","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|13:12:22","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:68","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:22","exception":false,"message":"Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:22","exception":false,"message":"GET_PROJECT_DATA"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:22","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:62","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:21","exception":false,"message":"Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:21","exception":false,"message":"GET_PROJECT_DATA"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:22","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:83","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:47","exception":false,"message":"Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:47","exception":false,"message":"GET_PROJECT_DATA"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:47","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:17","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:97","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:29","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:95","exception":false,"message":"Cannot set headers after they are sent to the client"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:95","exception":false,"message":"GET_PROJECT_DATA"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:95","exception":true,"message":"uncaughtException: Cannot set headers after they are sent to the client"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:93","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:41","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:50","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:62","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:73","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:15","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:40","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:76","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:52","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:80","exception":true,"message":"uncaughtException: path is not defined"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:30","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|14:12:29","exception":true,"message":"uncaughtException: path.resolve is not a function"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:83","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|14:12:49","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:47","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:70","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:06","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:79","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:12","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:97","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:100","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|15:12:96","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:64","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["warn"],"timestamp":"22:12:2023|15:12:86","exception":false,"message":"MongoDB Connection Closed Successfully!"}
+{"level":["error"],"timestamp":"22:12:2023|15:12:90","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:77","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:79","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:09","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:88","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:60","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:16","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:54","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:04","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:97","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:49","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:52","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["error"],"timestamp":"22:12:2023|15:12:53","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["warn"],"timestamp":"22:12:2023|15:12:50","exception":false,"message":"MongoDB Connection Closed Successfully!"}
+{"level":["error"],"timestamp":"22:12:2023|15:12:10","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["info"],"timestamp":"22:12:2023|15:12:09","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:14","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"22:12:2023|15:12:11","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"22:12:2023|15:12:13","exception":false,"message":"MongoDB Disconnected"}
+{"level":["info"],"timestamp":"22:12:2023|15:12:82","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|15:12:39","exception":true,"message":"uncaughtException: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string."}
+{"level":["info"],"timestamp":"22:12:2023|16:12:01","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"22:12:2023|17:12:59","exception":false,"message":"MongoDB Disconnected"}
+{"level":["warn"],"timestamp":"22:12:2023|17:12:73","exception":false,"message":"MongoDB Reconnected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:57","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:35","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:09","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:75","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:51","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:32","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:81","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:55","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:72","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|17:12:57","exception":true,"message":"uncaughtException: Class constructor MongoClient cannot be invoked without 'new'"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:02","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|17:12:17","exception":true,"message":"uncaughtException: Class constructor MongoClient cannot be invoked without 'new'"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:48","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|17:12:76","exception":true,"message":"uncaughtException: Class constructor MongoClient cannot be invoked without 'new'"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:25","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|17:12:53","exception":true,"message":"uncaughtException: Class constructor MongoClient cannot be invoked without 'new'"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:66","exception":false,"message":"MongoDB connected"}
+{"level":["error"],"timestamp":"22:12:2023|17:12:57","exception":true,"message":"uncaughtException: Class constructor MongoClient cannot be invoked without 'new'"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:99","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:26","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:55","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:29","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:79","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:48","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:16","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:65","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:96","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:20","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:33","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:07","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:52","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:64","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:69","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"22:12:2023|17:12:52","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"22:12:2023|17:12:00","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"22:12:2023|17:12:02","exception":false,"message":"MongoDB Disconnected"}

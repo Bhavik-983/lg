@@ -4,8 +4,6 @@ import logger from "../utilities/logger.js";
 import message from "../utilities/messages/message.js";
 import { sendBadRequest, sendSuccess } from "../utilities/response/index.js";
 
-let projectCatch = new Map();
-
 export const addLanguage = async (req, res) => {
   try {
     const data = req.body;
@@ -76,7 +74,6 @@ export const addLanguage = async (req, res) => {
     return sendBadRequest(res, message.somethingGoneWrong);
   }
 };
-
 
 // use for get language name data
 export const getLanguageNameList = async (req, res) => {

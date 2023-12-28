@@ -1,0 +1,45 @@
+{"level":["info"],"timestamp":"27:12:2023|11:12:28","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:17","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:07","exception":false,"message":"::1 - - [27/Dec/2023:05:32:36 +0000] \"GET /grt HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:92","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:49","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:99","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:35","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"27:12:2023|11:12:50","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"27:12:2023|11:12:52","exception":false,"message":"MongoDB Disconnected"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:71","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:61","exception":false,"message":"::1 - - [27/Dec/2023:05:43:01 +0000] \"GET /api/getAllUser HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:69","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:74","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|11:12:44","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"27:12:2023|13:12:28","exception":false,"message":"MongoDB Disconnected"}
+{"level":["warn"],"timestamp":"27:12:2023|13:12:45","exception":false,"message":"MongoDB Reconnected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:61","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:83","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:67","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:16","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:76","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:09","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"27:12:2023|13:12:12","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"27:12:2023|13:12:13","exception":false,"message":"MongoDB Disconnected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:86","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:30","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:20","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:48","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:21","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:68","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:37","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"27:12:2023|13:12:86","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"27:12:2023|13:12:87","exception":false,"message":"MongoDB Disconnected"}
+{"level":["info"],"timestamp":"27:12:2023|13:12:63","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|14:12:02","exception":false,"message":"::1 - - [27/Dec/2023:08:33:36 +0000] \"GET /api/getAllUser HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"27:12:2023|14:12:04","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|14:12:82","exception":false,"message":"::1 - - [27/Dec/2023:08:33:51 +0000] \"GET /api/getAllUser HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["warn"],"timestamp":"27:12:2023|14:12:19","exception":false,"message":"MongoDB Disconnected"}
+{"level":["warn"],"timestamp":"27:12:2023|14:12:74","exception":false,"message":"MongoDB Reconnected"}
+{"level":["info"],"timestamp":"27:12:2023|14:12:93","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|15:12:20","exception":false,"message":"MongoDB connected"}
+{"level":["info"],"timestamp":"27:12:2023|15:12:71","exception":false,"message":"::1 - - [27/Dec/2023:09:32:33 +0000] \"GET /api/getAllUser HTTP/1.1\" 404 - \"-\" \"PostmanRuntime/7.36.0\"\n"}
+{"level":["info"],"timestamp":"27:12:2023|15:12:56","exception":false,"message":"MongoDB connected"}
+{"level":["warn"],"timestamp":"27:12:2023|15:12:73","exception":false,"message":"MongoDB Disconnecting"}
+{"level":["warn"],"timestamp":"27:12:2023|15:12:74","exception":false,"message":"MongoDB Disconnected"}

@@ -28,7 +28,7 @@ const projectSchema = new Schema({
   }
 
 },
-{ timestamps: true }
+  { timestamps: true }
 )
 
 export const ProjectModel = mongoose.model('projects', projectSchema)
